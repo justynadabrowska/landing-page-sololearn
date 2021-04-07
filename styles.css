@@ -31,6 +31,11 @@ header {
     cursor: pointer;
 }
 
+.btn:hover {
+    background: #468486;
+    transition: ease-in 0.5s;
+}
+
 h1 {
     font-size: 48px;
     margin: 0 0 16px 0;
